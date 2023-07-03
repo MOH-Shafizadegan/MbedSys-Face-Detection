@@ -1,0 +1,3 @@
+/media/mohsh/EDU/SUT/Semester6/Embedded Systems/Practice/Face Detection/Code/DB/build/CMakeFiles/database.dir
+/media/mohsh/EDU/SUT/Semester6/Embedded Systems/Practice/Face Detection/Code/DB/build/CMakeFiles/edit_cache.dir
+/media/mohsh/EDU/SUT/Semester6/Embedded Systems/Practice/Face Detection/Code/DB/build/CMakeFiles/rebuild_cache.dir

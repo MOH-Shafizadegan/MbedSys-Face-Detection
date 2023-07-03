@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/publisher.dir/src/Publisher.cpp.o -o bin/publisher  -lmysqlclient -lpaho-mqtt3c 
